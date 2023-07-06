@@ -47,6 +47,10 @@ This is the place I use to break things
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallegos&layout=compact)
 
+<h2>🎵 Music stuff</h2>
+
+[![Now playing](https://spotify-info.onrender.com/now-playing)](https://google.com)
+
 <p>
     <a href="http://hits.dwyl.com/dallegos/dallegos/dallegos.svg?style=flat">
         <img src="https://hits.dwyl.com/dallegos/dallegos/dallegos.svg?style=flat" alt="HitCount">
