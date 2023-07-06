@@ -43,7 +43,7 @@ This is the place I use to break things
 
 <img src="https://github-readme-stats.vercel.app/api?username=dallegos&show_icons=true&count_private=true" alt="dallegos" />
 
-[![My Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dallegos)](https://github.com)
+[![My Stats](https://github-readme-stats.vercel.app/api/wakatime?username=1fd92ec6-d618-48df-818f-385fee893296)](https://github.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallegos&layout=compact)
 
@@ -52,3 +52,5 @@ This is the place I use to break things
         <img src="https://hits.dwyl.com/dallegos/dallegos/dallegos.svg?style=flat" alt="HitCount">
     </a>
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/1fd92ec6-d618-48df-818f-385fee893296.svg)](https://wakatime.com/@1fd92ec6-d618-48df-818f-385fee893296)
