@@ -49,7 +49,7 @@ This is the place I use to break things
 
 <h2>🎵 Now listening</h2>
 
-[![Now playing](https://spotify-info.onrender.com/now-playing/?)](https://open.spotify.com/user/11164212397?si=f0812d5aae714917)
+<img src="https://spotify-info.onrender.com/now-playing/?" alt="now playing on spotify" />
 
 <p>
     <a href="http://hits.dwyl.com/dallegos/dallegos/dallegos.svg?style=flat">
