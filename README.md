@@ -55,4 +55,4 @@ This is the place I use to break things
     </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/1fd92ec6-d618-48df-818f-385fee893296.svg)](https://wakatime.com/@1fd92ec6-d618-48df-818f-385fee893296)
+<!-- [![wakatime](https://wakatime.com/badge/user/1fd92ec6-d618-48df-818f-385fee893296.svg)](https://wakatime.com/@1fd92ec6-d618-48df-818f-385fee893296) -->
