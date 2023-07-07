@@ -43,9 +43,9 @@ This is the place I use to break things
 
 <img src="https://github-readme-stats.vercel.app/api?username=dallegos&show_icons=true&count_private=true" alt="dallegos" />
 
-![My Stats](https://github-readme-stats.vercel.app/api/wakatime?username=1fd92ec6-d618-48df-818f-385fee893296?)
+![My Stats](https://github-readme-stats.vercel.app/api/wakatime?username=1fd92ec6-d618-48df-818f-385fee893296)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallegos&layout=compact?)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallegos&layout=compact)
 
 <h2>🎵 Now listening</h2>
 
