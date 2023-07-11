@@ -41,7 +41,7 @@ This is the place I use to break things
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="42" height="42"  />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dallegos&show_icons=true&count_private=true&include_all_commits=true" alt="dallegos" />
+<img src="https://github-readme-stats.vercel.app/api?username=dallegos&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile" alt="dallegos" />
 
 ![My Stats](https://github-readme-stats.vercel.app/api/wakatime?username=1fd92ec6-d618-48df-818f-385fee893296&layout=compact&custom_title=Languages)
 
