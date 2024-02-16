@@ -51,10 +51,10 @@ This is the place I use to break things
 
 <img src="https://concerned-nightshirt-moth.cyclic.cloud/now-playing/?" alt="now playing on spotify" />
 
-<p>
+<!-- <p>
     <a href="http://hits.dwyl.com/dallegos/dallegos/dallegos.svg?style=flat">
         <img src="https://hits.dwyl.com/dallegos/dallegos/dallegos.svg?style=flat" alt="HitCount">
     </a>
-</p>
+</p> -->
 
 <!-- [![wakatime](https://wakatime.com/badge/user/1fd92ec6-d618-48df-818f-385fee893296.svg)](https://wakatime.com/@1fd92ec6-d618-48df-818f-385fee893296) -->
