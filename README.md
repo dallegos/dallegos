@@ -5,7 +5,7 @@ This is the place I use to break things
 <h2>⚡️ A Few Quick Facts</h2>
 
 - 🔭 I’m currently working at <a href="https://github.com/Endava/" target="_blank" rel="noopener noreferrer">Endava</a> as a Senior Software Engineer 
-- 🌱 I’m currently playing with <a href="https://www.electronjs.org" target="_blank" rel="noopener noreferrer">Electron</a>
+- 🌱 I’m currently playing with [Tauri](https://tauri.app/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my favourite things in the world are: my cats 🐱, music 🎸 and cooking 🍳. 
 
@@ -38,7 +38,6 @@ This is the place I use to break things
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="42" height="42"  />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="42" height="42"  />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="42" height="42"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="42" height="42"  />
 </p>
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=dallegos&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile" alt="dallegos" />
