@@ -48,7 +48,7 @@ This is the place I use to break things
 
 <!-- <img src="https://spotify-info.onrender.com/now-playing/?" alt="now playing on spotify" /> -->
 
-<img src="https://concerned-nightshirt-moth.cyclic.cloud/now-playing/?" alt="now playing on spotify" />
+<img src="https://spotify-info.onrender.com/now-playing" alt="now playing on spotify" />
 
 <!-- <p>
     <a href="http://hits.dwyl.com/dallegos/dallegos/dallegos.svg?style=flat">
