@@ -4,10 +4,8 @@ This is the place I use to break things
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-- 🔭 I’m currently working at <a href="https://github.com/Endava/" target="_blank" rel="noopener noreferrer">Endava</a> as a Senior Software Engineer 
-- 🌱 I’m currently playing with [Tauri](https://tauri.app/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: my favourite things in the world are: my cats 🐱, music 🎸 and cooking 🍳. 
+- 🔭 I’m currently working at <a href="https://www.leniolabs.com/" target="_blank" rel="noopener noreferrer">Leniolabs_</a> as a Tech Lead and Senior Software Engineer 
+- 🌱 I’m currently playing with [Electron](https://www.leniolabs.com/)
 
 
 <h2>🚀 Some Tools I Use</h2>
